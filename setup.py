@@ -3,7 +3,7 @@
 from setuptools import find_packages, setup
 
 
-URL = 'https://github.com/cuducos/alchemydumps'
+URL = 'https://github.com/litchiware/alchemydumps'
 LONG_DESCRIPTION = 'Check `Flask-AlchemyDumps at GitHub <{}>`_.'.format(URL)
 
 setup(

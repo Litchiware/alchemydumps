@@ -1,7 +1,7 @@
 # coding: utf-8
 
 from flask import current_app
-from sqlalchemy.ext.serializer import dumps, loads
+from sqlalchemy_serializer import dumps, loads
 
 
 class AlchemyDumpsDatabase(object):
